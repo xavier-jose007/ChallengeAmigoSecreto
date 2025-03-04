@@ -28,9 +28,11 @@ Funcionalidades
 ✔️ Validação para evitar infinitos sorteios
 
 
+
 Layout ou Deploy da Aplicação 
 
 challenge-amigo-secreto-jet.vercel.app
+
 
 
 Como rodar a aplicação ▶️
