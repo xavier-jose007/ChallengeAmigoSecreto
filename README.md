@@ -1,6 +1,6 @@
 # ChallengeAmigoSecreto
 
-Tópicos
+<B>Tópicos</B>
 
 🔹 Descrição do projeto
 
@@ -12,12 +12,15 @@ Tópicos
 
 ........................................................
 
-Descrição do projeto
+<B>Descrição do projeto</B>
 
-Página html onde o usuário cadastra um número de amigos e depois clica para sortear um deles.
+<P>Página html onde o usuário cadastra um número de amigos e depois clica para sortear um deles.</P>
 
+<P>
+  <BR>
+</P>
 
-Funcionalidades
+<B>Funcionalidades</B>
 
 ✔️ Cadastro de nomes de amigos
 
@@ -27,15 +30,19 @@ Funcionalidades
 
 ✔️ Validação para evitar infinitos sorteios
 
+<P>
+  <BR>
+</P>
 
-
-Layout ou Deploy da Aplicação 
+<B>Layout ou Deploy da Aplicação </B>
 
 challenge-amigo-secreto-jet.vercel.app
 
+<P>
+  <BR>
+</P>
 
-
-Como rodar a aplicação ▶️
+<B>Como rodar a aplicação ▶️</B>
 
 Insira o link acima (.app) no browser.
 
